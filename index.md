@@ -29,12 +29,3 @@ Part of my work involves managing computational infrastructure for our lab, incl
 - Research environment setup and maintenance
 
 ---
-
-## Recent Updates
-
-### [Date] - Title
-What I worked on today...
-
----
-
-*Documenting research progress, technical learning, and infrastructure management. Updated regularly.*
